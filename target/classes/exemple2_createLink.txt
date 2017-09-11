@@ -1,6 +1,0 @@
-mutation createLink {
-  createLink(url: "http://google.com", description: "Google") {
-    url
-    description
-  }
-}
